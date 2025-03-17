@@ -1,4 +1,4 @@
-# Password Complexity Checker
+# Secure Check
 
 This Password Complexity Checker is a Python tool designed to assess the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides feedback on the password's strength and suggestions for improvement.
 
